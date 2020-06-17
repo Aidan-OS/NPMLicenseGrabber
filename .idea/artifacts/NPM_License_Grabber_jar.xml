@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NPM-License-Grabber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NPM_License_Grabber_jar</output-path>
+    <root id="archive" name="NPM-License-Grabber.jar">
+      <element id="module-output" name="NPM-License-Grabber" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/json-simple-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
