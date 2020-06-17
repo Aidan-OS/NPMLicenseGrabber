@@ -25,10 +25,10 @@ Run with both: `java -jar NPM-License-Grabber-1.0.jar alldevdeps MyProjectLicens
 
 ### Contribution guidelines ###
 
+If you wish to contribute, please submit a pull request clearly explaining the changes made and what problems it solves. I will do my best too look it over quickly.
+
 Please just follow the style set by the work already committed. I know my curlies are different than some, however I find it (and hope you will to) much easier to read and debug.
 
-### Who do I talk to? ###
+### Bug Reports ###
 
-* Want to know why it was made? Talk to Jimmy.
-* Want quick help with Java? Talk to whoever is working on Protect-Core
-* Really confused about what is going on? Talk to me, Aidan, if you can reach me.
+Unfortunately this is a side project and I won't have time for major upkeep. If you notice a problem, let me know, and if you are able to fix it, please submit a pull request!
