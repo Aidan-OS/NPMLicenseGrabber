@@ -7,6 +7,7 @@ This repo was built by Aidan Smith in order to more easily aggregate the license
 
 * Can be run through commandline (with the jar) or through an editor
 * To perform a standard run, put a package.json in the same folder is the code is being run from and run the code!
+* <a href="https://github.com/Aidan-OS/NPMLicenseGrabber/tree/master/out/artifacts/NPM_License_Grabber_jar">Link to Releases</a>
 
 You can optionally add two command line arguments, Output File Name and AllDevDeps. The order of these does not matter:
 
